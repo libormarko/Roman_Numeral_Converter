@@ -16,4 +16,4 @@ This is a front-end web project. I built this roman numeral converter with JavaS
 1. Download the project files
 2. Extract all files from the zipped folder
 3. Open the folder
-4. Open the file called "Palindrom_Checker.js"
+4. Open the file called "Roman_Numeral_Converter.js"
